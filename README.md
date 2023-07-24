@@ -79,6 +79,3 @@ Other routes are accessible to all authenticated users.
 
 The server provides Swagger documentation for its API endpoints. You can access it by visiting `/api-docs` once the server is running.
 
-Example:
-
-
