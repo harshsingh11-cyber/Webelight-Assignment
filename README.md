@@ -1,5 +1,5 @@
 # Webelight-Assignment
-# FMCG Commercial App Server
+## FMCG Commercial App Server
 
 Welcome to the FMCG Commercial App Server! This server application provides basic functionalities such as authentication, role management, CRUD operations, filtering, pagination, and API documentation using Swagger.
 
